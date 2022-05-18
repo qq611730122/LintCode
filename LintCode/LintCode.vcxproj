@@ -143,6 +143,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="getImportance.cpp" />
+    <ClCompile Include="getMaxOccurrences.cpp" />
     <ClCompile Include="middleNode.cpp" />
     <ClCompile Include="test.cpp" />
   </ItemGroup>
