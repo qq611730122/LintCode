@@ -21,6 +21,9 @@
     <ClCompile Include="getImportance.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="middleNode.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="LintCode.h">
