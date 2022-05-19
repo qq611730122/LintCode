@@ -27,6 +27,12 @@
     <ClCompile Include="getMaxOccurrences.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="nthUglyNumber.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="backPack.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="LintCode.h">
