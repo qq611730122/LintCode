@@ -146,7 +146,9 @@
     <ClCompile Include="getImportance.cpp" />
     <ClCompile Include="getMaxOccurrences.cpp" />
     <ClCompile Include="middleNode.cpp" />
+    <ClCompile Include="minEatingSpeed.cpp" />
     <ClCompile Include="nthUglyNumber.cpp" />
+    <ClCompile Include="strStr.cpp" />
     <ClCompile Include="test.cpp" />
   </ItemGroup>
   <ItemGroup>
