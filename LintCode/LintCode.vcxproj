@@ -148,6 +148,8 @@
     <ClCompile Include="middleNode.cpp" />
     <ClCompile Include="minEatingSpeed.cpp" />
     <ClCompile Include="nthUglyNumber.cpp" />
+    <ClCompile Include="pickApples.cpp" />
+    <ClCompile Include="removeParentheses.cpp" />
     <ClCompile Include="strStr.cpp" />
     <ClCompile Include="test.cpp" />
   </ItemGroup>
