@@ -17,7 +17,7 @@ vector<int> getNext(const string& str)
 	for (int i = 2; i<n; i++)
 	{
 		int j = next[i - 1];
-		while (j > 0 && str[i - 1] != j)
+		while (j > 0 && str[i - 1] != str[j])
 		{
 			j = next[j];
 		}
